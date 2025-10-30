@@ -10,7 +10,7 @@ Exercises
 """
 
 from turtle import *
-
+turtle_circle = circle
 from freegames import vector
 
 
