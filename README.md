@@ -6,7 +6,7 @@ El usuario puede seleccionar figuras y colores para dibujar libremente sobre la 
 
 ---
 
-## Contenido del Repositorio
+## Contenido del Repositorio 🧩
 
 - **paint.py** → Código principal del programa.  
   Contiene las funciones para dibujar líneas, cuadrados, círculos, rectángulos y triángulos, así como la lógica para manejar los clics del mouse y los atajos de teclado.  
@@ -23,11 +23,11 @@ El usuario puede seleccionar figuras y colores para dibujar libremente sobre la 
 
    | Tecla | Acción                     |
    |:------|:---------------------------|
-   | **K** | Color negro                |
-   | **W** | Color blanco               |
-   | **G** | Color verde                |
-   | **B** | Color azul                 |
-   | **R** | Color rojo                 |
+   | **K** | Color negro            ⚫  |
+   | **W** | Color blanco         ⚪    |
+   | **G** | Color verde           🟢     |
+   | **B** | Color azul               🔵  |
+   | **R** | Color rojo           🔴      |
    | **L** | Dibujar línea              |
    | **S** | Dibujar cuadrado           |
    | **C** | Dibujar círculo            |
@@ -37,7 +37,7 @@ El usuario puede seleccionar figuras y colores para dibujar libremente sobre la 
 
 ---
 
-## Cambios Realizados en el Código
+## Cambios Realizados en el Código 🛠️
 
 Se implementaron las siguientes mejoras en el código original del ejercicio:
 
@@ -55,7 +55,7 @@ Se implementaron las siguientes mejoras en el código original del ejercicio:
 
 ---
 
-## Descripción General
+## Descripción General 🎯
 
 Este proyecto forma parte de los ejercicios de programación con **Turtle Graphics**, cuyo propósito es reforzar conceptos de:
 - Manipulación de eventos con el mouse y teclado.
